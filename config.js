@@ -12,7 +12,7 @@ import moment from "moment-timezone"
 
 
 global.owner = [
-  ["923097045246", "*⏜✩ ˻𝐈ʈͥ᥊ ϻaͣŋͫŋ̑ο̑˼ 𓃮•:)*", false],
+  ["923450672773", "*☞ ⃟☬₉₇ⷨ₁ᷢ₅₂ⷩ₆ͧ₆ᷤ₇ᷠ₁ͣ₃ͥ₁ᷠ₀☬ ⃟☜*", false],
   [''], 
   [''] 
 ]
@@ -20,9 +20,9 @@ global.owner = [
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923097045246'] 
-global.prems = ['923097045246']
-global.allowed = ['923097045246']
+global.mods = ['923450672773'] 
+global.prems = ['923450672773']
+global.allowed = ['923450672773']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -121,12 +121,12 @@ global.developer = 'https://wa.me/message/923097045246' //contact
 
 
 //Sticker WM
-global.botname = '*MANNO-BOT-MÐ*'
-global.princebot = '*🛡️𝘔𝘈𝘕𝘕𝘕𝘖-𝘉𝘖𝘛-𝘔𝘋🛡️*'
-global.packname = '𝘔𝘈𝘕𝘕𝘕𝘖-𝘉𝘖𝘛♥️' 
+global.botname = '*☞ ⃟☬₉₇ⷨ₁ᷢ₅₂ⷩ₆ͧ₆ᷤ₇ᷠ₁ͣ₃ͥ₁ᷠ₀☬ ⃟☜*'
+global.princebot = '*☞ ⃟☬₉₇ⷨ₁ᷢ₅₂ⷩ₆ͧ₆ᷤ₇ᷠ₁ͣ₃ͥ₁ᷠ₀☬ ⃟☜*'
+global.packname = '*☞ ⃟☬₉₇ⷨ₁ᷢ₅₂ⷩ₆ͧ₆ᷤ₇ᷠ₁ͣ₃ͥ₁ᷠ₀☬ ⃟☜*' 
 global.author = '' 
 global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
+global.princegp = ''
 global.menuvid = 'https://i.imgur.com/8E2itvZ.mp4'
 global.Princesc = 'https://github.com/Itxmanno05/THE-MANNO-BOT' 
 global.princeyt = 'https://youtube.com/'
